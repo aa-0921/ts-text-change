@@ -1,0 +1,20 @@
+{
+  "name": "ts-text-change",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aa-0921/ts-text-change.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aa-0921/ts-text-change/issues"
+  },
+  "homepage": "https://github.com/aa-0921/ts-text-change#readme"
+}
