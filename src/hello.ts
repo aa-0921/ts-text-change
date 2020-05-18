@@ -6,7 +6,7 @@ function getValue() {
     // document.getElementById("output").innerHTML = $formObject;
 
 
-    var $formObject = document.getElementById( "input-form" );
+    var $formObject = document.getElementById("input-form");
     document.getElementById("output").innerHTML = $formObject.inputForm.value;
 
 }
